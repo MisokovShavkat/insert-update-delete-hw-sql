@@ -1,0 +1,1 @@
+DELETE from books where price < 250;

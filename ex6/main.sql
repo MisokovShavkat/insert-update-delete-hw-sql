@@ -1,0 +1,1 @@
+UPDATE books SET price = 300 WHERE id = 3;

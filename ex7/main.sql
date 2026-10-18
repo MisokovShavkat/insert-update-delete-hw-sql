@@ -1,0 +1,1 @@
+UPDATE books SET price = price + 100;

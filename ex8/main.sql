@@ -1,0 +1,1 @@
+UPDATE  books SET pages = 500 WHERE id = 6;

@@ -1,0 +1,1 @@
+SELECT books.text,  books.author FROM books;
